@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/PlayerForm.ui.qml</file>
+        <file>qml/Board.qml</file>
+        <file>qml/BoardForm.ui.qml</file>
+        <file>qml/Player.qml</file>
+        <file>images/o.png</file>
+        <file>images/x.png</file>
+        <file>qml/CellState.qml</file>
+        <file>qml/qmldir</file>
+        <file>qml/Cell.qml</file>
+        <file>qml/CellForm.ui.qml</file>
+        <file>images/faces/idle.png</file>
+        <file>images/faces/sad.png</file>
+        <file>images/faces/smile.png</file>
+        <file>qml/Result.qml</file>
+        <file>qml/ResultForm.ui.qml</file>
+    </qresource>
+</RCC>
