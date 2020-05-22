@@ -13,5 +13,9 @@ HEADERS +=
 
 RESOURCES += noughts-crosses.qrc
 
+win32 {
+    RC_ICONS = images/noughts-crosses.ico
+}
+
 QML_IMPORT_PATH =
 QML_DESIGNER_IMPORT_PATH =
