@@ -6,7 +6,7 @@ The game is implemented using Qt Quick/QML without separating the game engine fr
 
 Author: Dmitry Baryshev
 
-![Noughts and Crosses](.github/noughts-crosses.jpg?raw=true)
+![Noughts and Crosses](.github/noughts-crosses.png?raw=true)
 
 ## Build requirements
 
