@@ -22,6 +22,8 @@ SolidCompression=yes
 UninstallDisplayName={#MyAppName}
 UninstallDisplayIcon={app}\noughts-crosses.exe
 MinVersion=0,6.0
+ArchitecturesAllowed=x64
+ArchitecturesInstallIn64BitMode=x64
 
 [Languages]
 Name: "AAAenglish"; MessagesFile: "compiler:Default.isl"
